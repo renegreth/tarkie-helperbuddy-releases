@@ -8,7 +8,8 @@ quests beside your own.
 · [tarkie-helperbuddy.vercel.app](https://tarkie-helperbuddy.vercel.app)
 
 - Windows 10 or 11. Nothing to install: save the file and run it.
-- You need an account and a product code to sign in. Ask Elap for a code.
+- You need an account and a product code to sign in. [Request a code](https://tarkie-helperbuddy.vercel.app/#request)
+  and you'll get it by mail once it's approved.
 - Windows may warn that the file is unknown, because it isn't signed with a paid certificate.
   Press "More info" and then "Run anyway".
 
@@ -22,5 +23,6 @@ mangler og nøgler, interaktive kort, ammo, hideout, en prisboks i spillet på e
 quests ved siden af dine egne.
 
 - Windows 10 eller 11. Intet at installere: gem filen og start den.
-- Du skal bruge en konto og en produktkode for at logge ind. Spørg Elap om en kode.
+- Du skal bruge en konto og en produktkode for at logge ind. [Bed om en kode](https://tarkie-helperbuddy.vercel.app/#request),
+  så får du den på mail, når den er godkendt.
 - Windows advarer måske om, at filen er ukendt. Tryk "Mere info" og derefter "Kør alligevel".
